@@ -10,7 +10,7 @@ const Navbar = () => {
   return (
     <div
       className="n-wrapper"
-      style={{ backgroundColor: darkMode ? "" : "#fff" }}
+      style={{ backgroundColor: darkMode ? "#000" : "#fff" }}
     >
       <div className="n-left">
         <div className="n-name">Islombek</div>
